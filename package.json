@@ -22,7 +22,7 @@
   "dependencies": {
     "jsonwebtoken": "^4.2.2",
     "node-uuid": "^1.4.3",
-    "on-headers": "~1.0.0",
+    "on-headers": "~1.1.0",
     "underscore": "^1.8.3"
   },
   "licenses": [
